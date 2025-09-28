@@ -20,6 +20,9 @@ A **responsive e-commerce website clone** built using **HTML**, **CSS**, and **m
 ---
 
 ## Live Demo
+
+<img src="https://github.com/RahulRouchanGogoi/ShopSphere-Ecom-Using-MERN/blob/main/Readme%20Images/frame%20(1).png" width="150"/>
+
 Check out the live project here: [E-Commerce Clone](https://ecommerce-clone-ashy.vercel.app/)
 
 ---
